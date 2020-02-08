@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\agendaTelefonica.exe.config
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\agendaTelefonica.exe
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\agendaTelefonica.pdb
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.Properties.Resources.resources
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.exe
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.pdb
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.agendaTelefonica.resources
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.adicionarContato.resources
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.buscarContato.resources
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\agendaTelefonica.csproj.CopyComplete
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\Correios.dll
+C:\Users\Rafael\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\Correios.pdb
